@@ -28,12 +28,6 @@ wheels/
 # VS Code
 .vscode/
 
-# Data files
-*.xlsx
-*.xls
-*.csv
-*.db
-
 # Output files
 output/*
 !output/.gitkeep
